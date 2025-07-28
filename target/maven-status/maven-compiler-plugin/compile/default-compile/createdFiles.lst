@@ -1,0 +1,5 @@
+org\example\entities\Cliente.class
+org\example\entities\Fornecedor.class
+org\example\entities\Pagamento.class
+org\example\Main.class
+org\example\entities\Livro.class
