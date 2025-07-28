@@ -1,4 +1,4 @@
-package org.example.resources;
+package org.example.Resources;
 
 import org.example.entities.Cliente;
 import org.example.services.ClienteService;
